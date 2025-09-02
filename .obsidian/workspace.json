@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "770c601ff76275c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf46d797e5f87a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde254b8d58be17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pantheon/Primordial/Gina Astarus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gina Astarus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6314550cf7afcecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1277ecf95603803",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dc5f475b455e22b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7c9da1ca4185edd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "91edb57988bec55a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7df0a4ce2d7a4f04",
+    "type": "split",
+    "children": [
+      {
+        "id": "26d074ed700f6f9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "726543dfeac6af7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pantheon/Primordial/Gina Astarus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gina Astarus"
+            }
+          },
+          {
+            "id": "0c75c32714e51368",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pantheon/Primordial/Gina Astarus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gina Astarus"
+            }
+          },
+          {
+            "id": "5bf657a06c33da17",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4397beaeef30b7d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pantheon/Primordial/Gina Astarus.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gina Astarus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7dc5f475b455e22b",
+  "lastOpenFiles": [
+    "Prosper",
+    "Pantheon/Primordial/Gina Astarus.md",
+    "Pantheon/Primordial",
+    "README.md",
+    "Pantheon",
+    "Welcome.md",
+    "TheNewProsper/README.md",
+    "TheNewProsper"
+  ]
+}
